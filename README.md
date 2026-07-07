@@ -1,0 +1,1 @@
+# Redundant-sensor-voting-module
