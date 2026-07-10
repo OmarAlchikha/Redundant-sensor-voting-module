@@ -1,0 +1,10 @@
+# Host build artifacts
+test/run_tests
+sim/sim_demo
+*.o
+*.out
+
+# Arduino build output
+build/
+*.hex
+*.elf
